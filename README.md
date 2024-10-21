@@ -1,11 +1,14 @@
 # 💫 About Me:
-👨‍💻 Higher Technician in Network Operating Systems Administration
+👨‍💻 Higher Technician in Network Operating Systems Administration:
+
 I am passionate about technology and have a strong foundation in network systems and operating systems. My background as a Higher Technician has equipped me with practical skills in managing and troubleshooting network infrastructures.
 
-🎓 Currently studying Computer Engineering at UJA
+🎓 Currently studying Computer Engineering at UJA:
+
 As I pursue my degree in Computer Engineering at the University of Jaén (UJA), I am deepening my knowledge in various areas, including software development, algorithms, and systems design. I enjoy engaging with complex problems and finding innovative solutions.
 
 🚀 I love to share my personal projects here!
+
 I strive to continuously learn and grow by working on personal projects that allow me to apply my skills and explore new technologies. Whether it's web development, automation scripts, or contributing to open-source projects, I enjoy showcasing my work and sharing my learning journey with the community.
 
 Feel free to connect with me, collaborate on projects, or reach out if you have any questions!
